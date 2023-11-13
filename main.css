@@ -89,4 +89,8 @@ body {
     .card-body {
         height: 60%;
     }
+
+    .convert-buttons button {
+        font-size: 20px;
+    }
 }
